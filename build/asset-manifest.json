@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Samirpopstar/keeper-app/static/js/main.0682f8b9.chunk.js",
+    "main.js.map": "/Samirpopstar/keeper-app/static/js/main.0682f8b9.chunk.js.map",
+    "runtime-main.js": "/Samirpopstar/keeper-app/static/js/runtime-main.c5e3cd60.js",
+    "runtime-main.js.map": "/Samirpopstar/keeper-app/static/js/runtime-main.c5e3cd60.js.map",
+    "static/js/2.d8908c0d.chunk.js": "/Samirpopstar/keeper-app/static/js/2.d8908c0d.chunk.js",
+    "static/js/2.d8908c0d.chunk.js.map": "/Samirpopstar/keeper-app/static/js/2.d8908c0d.chunk.js.map",
+    "index.html": "/Samirpopstar/keeper-app/index.html",
+    "precache-manifest.c70e1c6028df86cfa0882c615483266b.js": "/Samirpopstar/keeper-app/precache-manifest.c70e1c6028df86cfa0882c615483266b.js",
+    "service-worker.js": "/Samirpopstar/keeper-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5e3cd60.js",
+    "static/js/2.d8908c0d.chunk.js",
+    "static/js/main.0682f8b9.chunk.js"
+  ]
+}
